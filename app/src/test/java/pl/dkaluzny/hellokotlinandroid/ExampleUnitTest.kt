@@ -1,4 +1,4 @@
-package pl.dkaluzny.whatismyname
+package pl.dkaluzny.hellokotlinandroid
 
 import org.junit.Test
 

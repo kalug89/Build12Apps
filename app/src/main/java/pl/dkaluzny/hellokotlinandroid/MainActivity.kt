@@ -1,4 +1,4 @@
-package pl.dkaluzny.whatismyname
+package pl.dkaluzny.hellokotlinandroid
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle

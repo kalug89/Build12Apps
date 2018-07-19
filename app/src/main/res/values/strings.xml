@@ -1,6 +1,3 @@
 <resources>
-    <string name="app_name">HelloKotkinAndroid</string>
-    <string name="button_name">Show Name</string>
-    <string name="title">Enter our name</string>
-    <string name="hint_name">Enter Your Name</string>
+    <string name="app_name">HelloKotlinAndroid</string>
 </resources>

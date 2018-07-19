@@ -1,4 +1,4 @@
-package pl.dkaluzny.whatismyname
+package pl.dkaluzny.hellokotlinandroid
 
 import android.support.test.InstrumentationRegistry
 import android.support.test.runner.AndroidJUnit4
@@ -19,6 +19,6 @@ class ExampleInstrumentedTest {
     fun useAppContext() {
         // Context of the app under test.
         val appContext = InstrumentationRegistry.getTargetContext()
-        assertEquals("pl.dkaluzny.whatismyname", appContext.packageName)
+        assertEquals("pl.dkaluzny.hellokotlinandroid", appContext.packageName)
     }
 }
